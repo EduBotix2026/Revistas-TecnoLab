@@ -6,7 +6,7 @@ Revistas TecnoLab son una serie de revistas que buscan difundir todo lo que suce
 
 ## 📖 Números publicados
 
-- 📄 **Número 01 -  2026** → [Leer](TecnoLab 1.pdf)
+- 📄 **Número 01 -  2026** → [Leer](TecnoLab 1 Enero 2025.pdf)
 - 📄 **Número 02 - Agosto 2026** → [Leer](Nombre-Archivo-Numero-02.pdf)
 
 ---

@@ -12,15 +12,17 @@ Revistas TecnoLab son una serie de revistas que buscan difundir todo lo que suce
 ---
 
 ## 📜 Condiciones de uso
-Esta obra se distribuye bajo la **Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0)**.
+Esta obra se distribuye bajo la **Licencia Creative Commons Atribución-CompartirIgual 4.0 Internacional (CC BY-SA 4.0)**.
 
-✅ Puedes:
-- Compartir, copiar y difundir libremente por cualquier medio
-- Usar el contenido con fines educativos y de divulgación
+✅ **Lo que sí puedes hacer:**
+- Leer, descargar, compartir y difundir la revista libremente
+- Usar su contenido con fines educativos o de divulgación, respetando la autoría
 
-⚠️ Reglas a respetar:
-- Mencionar siempre la autoría original
-- Prohibido el uso comercial o cobro por el acceso
-- Si modificas el contenido, debes compartirlo con la misma licencia
+⚠️ **Lo que NO puedes hacer:**
+- ❌ Vender la revista, cobrar por su acceso o distribuirla con fines de lucro directo
+- ❌ Quitar la mención al autor original
+- ❌ Modificar su contenido y distribuirlo sin usar la misma licencia
+
+ℹ️ **Aclaración:** El autor puede incluir publicidad o patrocinios en las páginas de la revista como única forma de financiamiento, sin que esto implique la venta de la publicación misma.
 
 📄 Ver texto completo de la licencia: [LICENSE TecnoLab](LICENSE%20TecnoLab)
